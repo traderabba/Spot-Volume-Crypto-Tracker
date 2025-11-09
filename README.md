@@ -10,7 +10,7 @@ This free Spot Volume Crypto Tracker script lets you scrape high spot volume cry
 
 # Features
 
-- No complex work required
+- No complex setup required
 - Faster execution
 - Clear summary during execution
 - Redundancy filtering
