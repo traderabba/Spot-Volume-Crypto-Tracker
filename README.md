@@ -6,7 +6,7 @@ This free Spot Volume Crypto Tracker script lets you scrape high spot volume cry
 
 # Demo
 
-![Demo](https://raw.githubusercontent.com/traderabba/Spot-Volume-Crypto-Tracker/Assets/screenshot.png)
+![Demo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqx1dMPCRuRwHqXfsPcl39ymnvx6O-tBh5xlGky9ZTZQRNzkybDWqiym-xUyIDmjhUfb86I4UwJ5hN5UO1uhPVFttu0i5738MDQCktagV0UAQjpknV6t4_PitNn4bwRM4iioZihp5FvEMYTKTjMJfEClNuuMsKiC-svJdFfOM1VPfynR7ByolnnjIcz1w/s1327/screenshot.jpg)
 
 # Features
 
