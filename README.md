@@ -37,4 +37,12 @@ Follow the steps below to successfully implement the scraper:
 
 6. You can view the CSV file using the CSV Viewer app and export it to PDF.
 
-# Version 2.0 Change Log
+# Contribute
+
+This is open-source, you can contribute too. 
+
+Let's join hands. 
+
+Regards, 
+
+Abba Abdullahi Garba (Trader Abba).
