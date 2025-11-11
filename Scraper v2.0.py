@@ -60,7 +60,7 @@ def create_html_report(hot_tokens, save_path):
     </head>
     <body>
         <div class="header">
-            <h1>SPOT 24hr VOLUME TRACKE v2.0</h1>
+            <h1>SPOT VOLUME TRACKER v2.0</h1>
             <p>High Volume Spot Tokens Analysis</p>
             <p><small>Generated on: {current_time}</small></p>
         </div>
