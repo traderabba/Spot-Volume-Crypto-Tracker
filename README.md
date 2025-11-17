@@ -39,10 +39,8 @@ Follow the steps below to successfully implement the scraper:
 
 # Contribute
 
-This is open-source, you can contribute too. 
+This is open-source; you can contribute too.
 
-Let's join hands. 
+Regards,
 
-Regards, 
-
-Abba Abdullahi Garba (Trader Abba).
+Trader Abba. 
